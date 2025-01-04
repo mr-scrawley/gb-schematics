@@ -223,6 +223,8 @@ Components were identified by desoldering and measuring everything on a AGS-CPU-
 
 **Note: there are several versions of Advance SP mainboards, and these schematics have accurate information only for AGS-CPU-11**
 
+**Micha: see [here](https://forum.allaboutcircuits.com/threads/game-boy-cart-detection-switch.198806/) for potentially helpful discussion on the cartridge voltage switch**
+
 <a href="AGS-CPU-11/schematic/AGS-CPU-11.pdf">
 
   ![](AGS-CPU-11.png)
